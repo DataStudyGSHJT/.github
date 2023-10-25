@@ -2,6 +2,11 @@
 *나중에 스터디한 도서 및 공모전 정리*
 
 ## 파이썬을 이용한 비트코인 자동매매
+- [파이썬을 이용한 비트코인 자동매매 도서](https://www.yes24.com/Product/Goods/98135876)
+- [파이썬을 이용한 비트코인 자동매매 위키독스 - 도서 내용과 동일](https://wikidocs.net/book/1665)
+- [소스 코드](https://github.com/DataStudyGSHJT/book-cryptocurrency)
+- [발표 자료](https://github.com/DataStudyGSHJT/cryptocurrency-book-study)
+
 ### 발표 순서
 | 챕터 | 제목                  | 발표자 | 날짜       |
 |----------|-----------------------|-------|------------|
