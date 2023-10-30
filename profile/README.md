@@ -80,10 +80,10 @@
 </details>
 
 <details>
-  <summary> [2023.07-2022.09] 데이크루 6기</summary>
+  <summary> [2023.07-2023.09] 데이크루 6기</summary>
   <br/>
   <div markdown="1">
-    <p> 📆 활동 기간: 2023.07-2022.09</p>
+    <p> 📆 활동 기간: 2023.07-2023.09</p>
     <a href="https://www.gangseo.seoul.kr/reserve/re040101/view?aplySn=44&curPage=1"> ✒️ 서포터즈: 데이크루 6기</a>
   </div>
   <br/>
