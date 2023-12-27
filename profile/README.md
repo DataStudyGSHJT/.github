@@ -93,13 +93,26 @@
   </div>
 </details>
 
----
-
-## 파이썬을 이용한 비트코인 자동매매
-- [파이썬을 이용한 비트코인 자동매매 도서](https://www.yes24.com/Product/Goods/98135876)
+<details>
+  <summary> [2023.11-2023.12] 파이썬을 이용한 비트코인 자동매매</summary>
+  <br/>
+  <div markdown="1">
+    <p> 📆 활동 기간: 2023.11-2023.12</p>
+    <a href="https://www.yes24.com/Product/Goods/98135876"> 📖 도서: 파이썬을 이용한 비트코인 자동매매 </a>
+  </div>
+  
+  <br/>
+  <div markdown="1">
+    <a href="https://github.com/DataStudyGSHJT/cryptocurrency-book-study">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataStudyGSHJT&repo=cryptocurrency-book-study" /></a>
+  </div>
+  
+  <br/>
+  <div markdown="1"> 
+  
 - [파이썬을 이용한 비트코인 자동매매 위키독스 - 도서 내용과 동일](https://wikidocs.net/book/1665)
-- [소스 코드](https://github.com/DataStudyGSHJT/book-cryptocurrency)
-- [발표 자료](https://github.com/DataStudyGSHJT/cryptocurrency-book-study)
+- [도서 소스 코드](https://github.com/DataStudyGSHJT/book-cryptocurrency)
+
 
 ### 발표 순서
 | 챕터 | 제목                  | 발표자 | 날짜       |
@@ -115,4 +128,6 @@
 | 9        | ~웹소켓을 이용한 실시간 시세 처리~ |  KSE  | 2023.11.29.(수) |
 | 10       | ~나만의 HTS 만들기~     |  KTI  | 2023.12.13.(수) |
 
-- 추가로 발표하고 싶으시면, 일주일 전에 알려주세요! 
+  </div>
+
+</details>
